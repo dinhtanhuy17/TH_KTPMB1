@@ -1,6 +1,5 @@
 hello world!
-Buoi 2
-4
+
 +
 ++
 
